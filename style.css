@@ -52,6 +52,10 @@ footer {
     padding: 10px;
 }
 
+a {
+    color: #ff69b4; /* Hot pink */
+}
+
 .center {
 	display: block;
   	margin-left: auto;
